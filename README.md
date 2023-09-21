@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @HerQi
-- 🌱 I’m currently learning Web Development
 - 📫 How to reach me ... nah sorry
 
 <!---
